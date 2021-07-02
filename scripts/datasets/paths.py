@@ -1,0 +1,1 @@
+beijing_folder = "../../datasets/beijing/"
